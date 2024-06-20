@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Gabriel
+
+I'm currently working as Full Stack intern
 
 <!--
 **GabrielPrad/GabrielPrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
