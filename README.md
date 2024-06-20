@@ -4,8 +4,8 @@
 - Always seeking new knowledge and striving to excel in everything I do 🏃
 
 <div> <br>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GabrielPrad&show_icons=true&theme=dracula" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPrad&layout=compact&langs_count=16&hide=css,html,jupyter%20notebook&theme=dracula" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=GabrielPrad&show_icons=true&theme=dracula" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPrad&layout=compact&langs_count=16&hide=css,html,jupyter%20notebook&theme=dracula" />
 </div>
 
 <div style="display: inline_block"><br>
