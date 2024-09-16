@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Gabriel 
+## Hey there 👋 I'm Gabriel 
 
 - I'm currently working as Full Stack intern 🧑‍💻
 - Always seeking new knowledge and striving to excel in everything I do 🏃
