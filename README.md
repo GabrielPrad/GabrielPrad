@@ -1,6 +1,6 @@
 ## Hey there 👋 I'm Gabriel 
 
-- I'm currently working as Full Stack intern 🧑‍💻
+- I'm currently working as a Jr. Full Stack Developer. 🧑‍💻
 - Always seeking new knowledge and striving to excel in everything I do 🏃
 
 <div> <br>
