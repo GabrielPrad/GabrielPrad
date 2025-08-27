@@ -8,6 +8,8 @@
   <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPrad&theme=synthwave&cache_seconds=1800" />
 </div>
 
+![GitHub Contributions](https://badgen.net/github/commits/GabrielPrad)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="WINDOWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
   <img align="center" alt="LINUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
