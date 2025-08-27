@@ -4,8 +4,7 @@
 - Always seeking new knowledge and striving to excel in everything I do 🏃
 
 ### 
-![Metrics](https://raw.githubusercontent.com/GabrielPrad/GabrielPrad/main/github-metrics.svg)
-
+<div> <br> <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielPrad&show_icons=true&theme=synthwave&count_private=true&cache_seconds=1800" /> <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPrad&theme=synthwave&cache_seconds=1800" /> </div>
 ---
 
 ### 🛠️ Tech Stack
