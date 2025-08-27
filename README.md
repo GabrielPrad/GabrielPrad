@@ -3,12 +3,12 @@
 - I'm currently working as a Jr. Full Stack Developer. 🧑‍💻
 - Always seeking new knowledge and striving to excel in everything I do 🏃
 
-<div> <br>
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielPrad&show_icons=true&theme=synthwave&count_private=true&cache_seconds=1800" />
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPrad&theme=synthwave&cache_seconds=1800" />
-</div>
+### 
+![Metrics](https://raw.githubusercontent.com/GabrielPrad/GabrielPrad/main/github-metrics.svg)
 
-![GitHub Contributions](https://badgen.net/github/commits/GabrielPrad)
+---
+
+### 🛠️ Tech Stack
 
 <div style="display: inline_block"><br>
   <img align="center" alt="WINDOWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
@@ -18,15 +18,15 @@
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-##
+---
 
-<div> 
-  <a href="https://instagram.com/gdprvdo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabrielprado200351@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-prado-08a710207/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+### 🌐
 
-##
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-prado-08a710207/)
+
+---
+
+### 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielPrad/GabrielPrad/output/github-contribution-grid-snake-dark.svg">
