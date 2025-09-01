@@ -1,4 +1,4 @@
-<img width="1177" height="651" alt="image" src="https://github.com/user-attachments/assets/b2677e5f-c3d0-4c43-a434-e1166f2ae253" />## Hey there 👋 I'm Gabriel 
+## Hey there 👋 I'm Gabriel 
 
 - I'm currently working as a Jr. Full Stack Developer. 🧑‍💻
 - Always seeking new knowledge and striving to excel in everything I do 🏃
