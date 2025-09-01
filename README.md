@@ -1,4 +1,4 @@
-## Hey there 👋 I'm Gabriel 
+<img width="1177" height="651" alt="image" src="https://github.com/user-attachments/assets/b2677e5f-c3d0-4c43-a434-e1166f2ae253" />## Hey there 👋 I'm Gabriel 
 
 - I'm currently working as a Jr. Full Stack Developer. 🧑‍💻
 - Always seeking new knowledge and striving to excel in everything I do 🏃
@@ -8,8 +8,8 @@
 ### 📈 Stats
 
 <div> <br> 
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielPrad&show_icons=true&theme=synthwave&count_private=true&cache_seconds=1800" /> 
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPrad&theme=synthwave&cache_seconds=1800" /> 
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielPrad&show_icons=true&theme=monokai&count_private=true&cache_seconds=1800" /> 
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPrad&theme=monokai&cache_seconds=1800" /> 
 </div>
 
 ---
