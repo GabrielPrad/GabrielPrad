@@ -4,13 +4,14 @@
 - Always seeking new knowledge and striving to excel in everything I do 🏃
 
 ---
-
+<!--
 ### 📈 Stats
 
 <div> <br> 
   <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielPrad&show_icons=true&theme=monokai&count_private=true&cache_seconds=1800" /> 
   <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPrad&theme=monokai&cache_seconds=1800" /> 
 </div>
+-->
 
 ---
 
